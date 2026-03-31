@@ -56,6 +56,9 @@
     index.html
     *.js, *.css, 启动脚本
 ```
+前后端交互逻辑如图：
+<img width="386" height="545" alt="前后端交互" src="https://github.com/user-attachments/assets/762cc19c-9f02-4bfd-af21-4ee95171ec60" />
+
 
 **先决要求（示例为 Windows）**
 
@@ -66,3 +69,8 @@
 
 1) 编译cpp文件：双击项目目录下的compile_fixed.bat文件
 2) 运行前端：双击web文件夹下的start_server.bat文件
+
+**前端展示（任务一）**
+
+<img width="2490" height="1410" alt="image" src="https://github.com/user-attachments/assets/64e03bf9-a3d9-43c0-9a15-b4394637c264" />
+
